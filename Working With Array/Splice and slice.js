@@ -15,3 +15,4 @@ const fruit = ["Banana", "Orange", "Apple", "Mango"];
 
 // At position 2, remove 2 items
 fruit.splice(2, 2);
+
